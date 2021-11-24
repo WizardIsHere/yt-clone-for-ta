@@ -24,7 +24,14 @@ const Home = () => {
         }}
       />
       {videos.length === 0 ? (
-        <Spinner animation="grow" variant="light" className="my-auto mx-auto" />
+
+      <div  style={{
+        position: 'absolute', left: '50%', top: '50%',
+        transform: 'translate(-50%, -50%)'
+    }}>
+          <Spinner animation="border" variant="primary"/>
+      </div>
+        
       ) : (
         <Row xs={1} md={3} className="g-4">
           {videos
