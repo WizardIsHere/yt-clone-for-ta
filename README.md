@@ -1,4 +1,4 @@
-Check Spinner at https://hungry-meitner-8e66df.netlify.app
+🌟🌟🌟🌟🌟🌟🌟Check Spinner at https://hungry-meitner-8e66df.netlify.app 🌟🌟🌟🌟🌟🌟🌟🌟
 
 
 
